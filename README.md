@@ -1,4 +1,4 @@
-# UCB-Plotly-Project
+# Data Visualization in JavaScript: Plotly
 ## Overview
 In this assignment,I built an interactive dashboard to explore the Belly Button Biodiversity dataset, which colonize in human navels.
 Once deployed you will see
